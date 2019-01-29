@@ -1,11 +1,11 @@
 ## CDA 4910 Projects
 
 
-### Group 1 (title of the project)
-(_Student 1_ and _Student 2_)
+### Group 1 (Insight into Prison Specialist Care and Recidivism)
+(_Jordan_Douglass_ and _Oliver_Bennett_)
 
 The main goal for this project is to ...
 
 **Tools used**:
-- Tool 1 
-- Tool 2
+- Tableau 
+- Excel
